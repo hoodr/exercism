@@ -1,2 +1,2 @@
 # exercism
-hella solutions to exercism problems
+test hella solutions to exercism problems

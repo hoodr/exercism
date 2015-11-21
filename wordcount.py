@@ -1,6 +1,5 @@
 #Drew Hoo
 #Still Procrastinating HW
-#'rah rah ah ah ah\troma roma ma\tga ga oh la la\twant your bad romance'
 import collections
 import string
 
